@@ -1,0 +1,23 @@
+$ first_Name = "name_First";
+
+$ last_Name = "name_Last";
+
+$ full_Name = "{{first_Name}} {{last_Name}}";
+
+$ name_Prefix = "name_Prefix"
+
+$ formal_Name = "{{name_Prefix}} {{last_Name}}";
+
+$ sign_Title = "sign_Title";
+
+$ adr = [../cmacc-lib-geo/country/state/county/city/street/streetnum/_geo.cmacc];
+
+$ adr_Type = "adr_Type";
+
+// setting for US
+
+$ gender_US = [../cmacc-lib-us/_gender.cmacc];
+
+// settings for France
+
+$ gender_FR = [../cmacc-lib-fr/_gender.cmacc];

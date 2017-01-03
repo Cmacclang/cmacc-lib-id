@@ -1,0 +1,25 @@
+$ first_Name = "Marc";
+
+$ last_Name = "Dangeard";
+
+$ full_Name = "{{first_Name}} {{last_Name}}";
+
+$ formal_Name = "{{name_Prefix}} {{last_Name}}";
+
+$ adr = [../cmacc-lib-geo/FR/Ile_de_France/Paris/Paris/rue_Doucement/999/Geo.cmacc];
+
+$ adr_Type = "adr_Type";
+
+// setting for US
+
+$ name_Prefix_US = "Mr.";
+
+$ sign_Title_US = "Self";
+
+$ gender_US = [../cmacc-lib-us/_he.cmacc];
+
+// settings for France
+
+$ name_Prefix_FR = "M.";
+
+$ gender_FR = [../cmacc-lib-fr/_il.cmacc];

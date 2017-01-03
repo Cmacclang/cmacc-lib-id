@@ -1,0 +1,10 @@
+{
+  "name": "cmacc-lib-id",
+  "version": "1.0.0",
+  "description": "Package to manage IDs",
+  "main": "index.js",
+  "repository": "https://github.com/Cmacclang/cmacc-lib-id.git",
+  "author": "Marc Dangeard <marc@dangeard.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
