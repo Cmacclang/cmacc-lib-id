@@ -9,7 +9,7 @@
   "flat": true,
   "dependencies": {
     "cmacc-lib-fr": "https://github.com/cmacclang/cmacc-lib-fr.git#v1.0-beta",
-    "cmacc-lib-geo": "https://github.com/cmacclang/cmacc-lib-geo#v1.0-beta.git",
+    "cmacc-lib-geo": "https://github.com/cmacclang/cmacc-lib-geo#b3c652c058a04102c7d8fb95b40ef6dbee9ebe01",
     "cmacc-lib-us": "https://github.com/cmacclang/cmacc-lib-us.git#v1.0-beta"
   }
 }
