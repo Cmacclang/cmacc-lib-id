@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-id",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Package to manage IDs",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-lib-id.git",
@@ -9,6 +9,6 @@
   "flat": true,
   "dependencies": {
     "cmacc-lib-geo": "cmacclang/cmacc-lib-geo#v1.1.0",
-    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang#v1.1.0"
+    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang#v1.1.2"
   }
 }
