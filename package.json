@@ -9,6 +9,6 @@
   "flat": true,
   "dependencies": {
     "cmacc-lib-geo": "cmacclang/cmacc-lib-geo#v1.1.0",
-    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang#v1.1.0"
+    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang#v1.1.2"
   }
 }
