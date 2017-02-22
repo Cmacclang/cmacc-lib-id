@@ -16,7 +16,7 @@ $ adr_Type = "adr_Type";
 
 // setting for US
 
-$ gender_US = [yarn://cmacc-lib-lang/US/_gender.cmacc];
+$ gender_US = [yarn://cmacc-lib-lang/EN/_gender.cmacc];
 
 // settings for France
 
