@@ -10,14 +10,14 @@ $ formal_Name = "{{name_Prefix}} {{last_Name}}"
 
 $ sign_Title = "sign_Title"
 
-$ adr = [yarn://cmacc-lib-geo/country/state/county/city/street/streetnum/_geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-lib-geo/dev/country/state/county/city/street/streetnum/_geo.cmacc]
 
 $ adr_Type = "adr_Type"
 
 // setting for US
 
-$ gender_US = [yarn://cmacc-lib-lang/EN/_gender.cmacc]
+$ gender_US = [github:///cmacclang/cmacc-lib-lang/dev/EN/_gender.cmacc]
 
 // settings for France
 
-$ gender_FR = [yarn://cmacc-lib-lang/FR/_gender.cmacc]
+$ gender_FR = [github:///cmacclang/cmacc-lib-lang/dev/FR/_gender.cmacc]
