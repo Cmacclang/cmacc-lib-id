@@ -16,7 +16,7 @@ Platform:
 npm manifest: 
   {
     "name": "cmacc-lib-id",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Package to manage IDs",
     "main": "index.js",
     "repository": "https://github.com/cmacclang/cmacc-lib-id.git",
@@ -24,8 +24,8 @@ npm manifest:
     "license": "MIT",
     "flat": true,
     "dependencies": {
-      "cmacc-lib-geo": "cmacclang/cmacc-lib-geo#v2.0.1",
-      "cmacc-lib-lang": "cmacclang/cmacc-lib-lang#v2.0.1"
+      "cmacc-lib-geo": "cmacclang/cmacc-lib-geo",
+      "cmacc-lib-lang": "cmacclang/cmacc-lib-lang"
     }
   }
 
@@ -37,16 +37,16 @@ Lockfile:
   # yarn lockfile v1
   
   
-  cmacc-lib-geo@cmacclang/cmacc-lib-geo#v1.1.0:
-    version "1.1.0"
-    resolved "https://codeload.github.com/cmacclang/cmacc-lib-geo/tar.gz/3b5d4a650ce92e1753e2799fcb41ad4df52dd0a7"
+  cmacc-lib-geo@cmacclang/cmacc-lib-geo:
+    version "2.0.1"
+    resolved "https://codeload.github.com/cmacclang/cmacc-lib-geo/tar.gz/e5ca94984bba66dbdd9ca3274fc988c559475b7b"
   
-  cmacc-lib-lang@cmacclang/cmacc-lib-lang#v1.1.2:
-    version "1.1.2"
-    resolved "https://codeload.github.com/cmacclang/cmacc-lib-lang/tar.gz/1de830a3e6ff5941dcb156b3ca3d180fdf355124"
+  cmacc-lib-lang@cmacclang/cmacc-lib-lang:
+    version "2.0.1"
+    resolved "https://codeload.github.com/cmacclang/cmacc-lib-lang/tar.gz/5ac351922288a3c242f87b53c3b6727e83fef067"
 
 Trace: 
-  Error: https://registry.yarnpkg.com/cmacc-lib-id: You must be logged in to publish packages
+  Error: https://registry.yarnpkg.com/cmacc-lib-id: You must be logged in to publish packages.
       at Request.params.callback [as _callback] (/usr/local/lib/node_modules/yarn/lib/util/request-manager.js:326:18)
       at Request.self.callback (/usr/local/lib/node_modules/yarn/node_modules/request/request.js:188:22)
       at emitTwo (events.js:106:13)
