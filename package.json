@@ -8,7 +8,7 @@
   "license": "MIT",
   "flat": true,
   "dependencies": {
-    "cmacc-lib-geo": "cmacclang/cmacc-lib-geo#v2.0.1",
-    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang#v2.0.1"
+    "cmacc-lib-geo": "cmacclang/cmacc-lib-geo",
+    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang"
   }
 }
